@@ -6,7 +6,7 @@
 
 <h2>⚡ Certifications</h2>
 
- - [Microsoft Azure SC-900](https://github.com/IsmailEsse-Github/Active-Directory-Lab)
+ - [Microsoft Azure SC-900](https://www.credly.com/badges/a33bb4d1-ae26-4824-a82a-fb5421f01be1?source=linked_in_profile)
 
 <h2>📺 Popular YouTube Videos</h2>
 
