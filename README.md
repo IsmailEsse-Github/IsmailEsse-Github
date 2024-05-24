@@ -6,11 +6,11 @@
 
 <h2>⚡ Certifications</h2>
 
- - [Microsoft Azure SC-900](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Microsoft Azure SC-900](https://github.com/IsmailEsse-Github/Active-Directory-Lab)
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Active Directory Home lab Tutorial](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Active Directory Home lab Tutorial](https://github.com/IsmailEsse-Github/Active-Directory-Lab)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -19,7 +19,7 @@
 
 
 
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.youtube.com
 [linkedin]: www.linkedin.com/in/ismail-esse-655b17213
 
 <!--
